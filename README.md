@@ -1,4 +1,4 @@
-# EmailEye-PhishPredict
+# Email Reading Behavior-Informed Machine Learning Model to Predict Phishing Susceptibility (AIS&P'23) by Ning Xu, Jiluan Fan, and Zikai Wen
 
 The data sheet is the record from the user interactions within the What.Hack anti-phishing training game. Here is the breakdown of the data provided:
 
